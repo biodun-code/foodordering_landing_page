@@ -65,7 +65,7 @@ const Footer = () => {
           <Col lg={3}>
             <div className={classes.social}>
               <h3>Social</h3>
-              <a href="" target="_blank" rel="noreferrer">
+              <a href="https://instagram.com/biodun_1404?igshid=ZWIzMWE5ZmU3Zg==" target="_blank" rel="noreferrer">
                 <p>
                   <img
                     src={insta}
@@ -74,7 +74,7 @@ const Footer = () => {
                   ></img>
                 </p>
               </a>
-              <a href="" target="_blank" rel="noreferrer">
+              <a href="https://twitter.com/biodun_dev/status/1643673458717466632?s=20" target="_blank" rel="noreferrer">
                 <p>
                   <img
                     src={twitter}
@@ -83,7 +83,7 @@ const Footer = () => {
                   ></img>
                 </p>
               </a>
-              <a href="" target="_blank" rel="noreferrer">
+              <a href="https://www.facebook.com/abiodun.toheeb.982?mibextid=LQQJ4d" target="_blank" rel="noreferrer">
                 <p>
                   <img
                     src={fb}
